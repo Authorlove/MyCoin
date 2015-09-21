@@ -1,0 +1,5 @@
+com\liulishuo\test\Controller\CoinsController.class
+com\liulishuo\test\Model\Coins.class
+com\liulishuo\test\Service\CoinsService.class
+com\liulishuo\test\HelloMvcController.class
+com\liulishuo\test\Service\impl\CoinsServiceImpl.class
